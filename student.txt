@@ -1,0 +1,5 @@
+Student Management System
+
+Student Name: M.Vatsalya
+Course: B.Tech CSE
+Purpose: Software Engineering Practical
